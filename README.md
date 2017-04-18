@@ -1,7 +1,10 @@
-# test coverage for  [assets-webpack-plugin (v3.5.1)](https://github.com/sporto/assets-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmtest-assets-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-assets-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-assets-webpack-plugin.svg)](https://travis-ci.org/npmtest/node-npmtest-assets-webpack-plugin)
+# npmtest-assets-webpack-plugin
+
+#### test coverage for  [assets-webpack-plugin (v3.5.1)](https://github.com/sporto/assets-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmtest-assets-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-assets-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-assets-webpack-plugin.svg)](https://travis-ci.org/npmtest/node-npmtest-assets-webpack-plugin)
+
 #### Emits a json file with assets paths
 
-[![NPM](https://nodei.co/npm/assets-webpack-plugin.png?downloads=true)](https://www.npmjs.com/package/assets-webpack-plugin)
+[![NPM](https://nodei.co/npm/assets-webpack-plugin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/assets-webpack-plugin)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-assets-webpack-plugin/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-assets-webpack-plugin/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-assets-webpack-plugin%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-assets-webpack-plugin/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-assets-webpack-plugin%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-assets-webpack-plugin/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/test-report.html](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-assets-webpack-plugin/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-assets-webpack-plugin/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-assets-webpack-plugin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-assets-webpack-plugin/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/screenCapture.npmPackageListing.svg)
 
@@ -70,17 +79,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "kossnocorp",
-            "email": "kossnocorp@gmail.com"
+            "name": "kossnocorp"
         },
         {
-            "name": "sporto",
-            "email": "sebasporto@gmail.com"
+            "name": "sporto"
         }
     ],
     "name": "assets-webpack-plugin",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/sporto/assets-webpack-plugin.git"
