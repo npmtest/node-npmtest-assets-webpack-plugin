@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [assets-webpack-plugin (v3.5.1)](https://github.com/sporto/assets-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmtest-assets-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-assets-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-assets-webpack-plugin.svg)](https://travis-ci.org/npmtest/node-npmtest-assets-webpack-plugin)",
+    "description": "#### basic test coverage for  [assets-webpack-plugin (v3.5.1)](https://github.com/sporto/assets-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmtest-assets-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-assets-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-assets-webpack-plugin.svg)](https://travis-ci.org/npmtest/node-npmtest-assets-webpack-plugin)",
     "devDependencies": {
         "assets-webpack-plugin": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

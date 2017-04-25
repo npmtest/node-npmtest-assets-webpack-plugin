@@ -1,6 +1,6 @@
 # npmtest-assets-webpack-plugin
 
-#### test coverage for  [assets-webpack-plugin (v3.5.1)](https://github.com/sporto/assets-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmtest-assets-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-assets-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-assets-webpack-plugin.svg)](https://travis-ci.org/npmtest/node-npmtest-assets-webpack-plugin)
+#### basic test coverage for  [assets-webpack-plugin (v3.5.1)](https://github.com/sporto/assets-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmtest-assets-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-assets-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-assets-webpack-plugin.svg)](https://travis-ci.org/npmtest/node-npmtest-assets-webpack-plugin)
 
 #### Emits a json file with assets paths
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-assets-webpack-plugin/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-assets-webpack-plugin/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-assets-webpack-plugin/build/coverage.html/index.html)
 
@@ -95,7 +95,8 @@
         "lint": "standard --verbose | snazzy",
         "test": "mocha test"
     },
-    "version": "3.5.1"
+    "version": "3.5.1",
+    "bin": {}
 }
 ```
 
